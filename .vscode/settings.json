@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "device.h": "c",
+        "printk.h": "c",
+        "gpio.h": "c",
+        "stdbool.h": "c",
+        "stdint.h": "c",
+        "random": "c",
+        "limits": "c",
+        "stdexcept": "c",
+        "i2c.h": "c"
+    }
+}
